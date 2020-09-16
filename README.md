@@ -1,4 +1,4 @@
-![Hi there!](./img/github_profile_banner.jpg)
+![Hi there!](https://raw.githubusercontent.com/maxxxxxdlp/maxxxxxdlp/main/img/github_profile_banner.jpg)
 
 <h1 align="center"> Hi! :wave:</h1>
 
