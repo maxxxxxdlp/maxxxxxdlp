@@ -12,5 +12,5 @@
 
 <h3 align="center">
 	Sit back and enjoy your problems.<br>
-	You not always have to solve them!
+	You don't always have to solve them!
 </h3>
